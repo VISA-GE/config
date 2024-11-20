@@ -1,0 +1,21 @@
+[
+  {
+    name: 'Custom Upload',
+    components: [
+      {
+        title: 'Custom Upload',
+        location: ComponentLocation.DataSources,
+        url: 'https://www.unpkg.com/@visa-ge/plugin-custom-upload@0.0.3/remoteEntry.js',
+        accession: './Component',
+        componentName: 'AppComponent'
+      },
+      {
+        title: 'Hello World',
+        location: ComponentLocation.DataSources,
+        url: 'https://www.unpkg.com/@visa-ge/plugin-custom-upload@0.0.3/remoteEntry.js',
+        accession: './Component',
+        componentName: 'AppComponent'
+      }
+    ]
+  }
+]
