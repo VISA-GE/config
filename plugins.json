@@ -5,14 +5,14 @@
       {
         "title": "Custom Upload",
         "location": "Data sources",
-        "url": "https://www.unpkg.com/@visa-ge/plugin-custom-upload@0.0.5/remoteEntry.js",
+        "url": "https://www.unpkg.com/@visa-ge/plugin-custom-upload@0.0.6/remoteEntry.js",
         "accession": "./Component",
         "componentName": "AppComponent"
       },
       {
         "title": "Hello World",
         "location": "Data sources",
-        "url": "https://www.unpkg.com/@visa-ge/plugin-custom-upload@0.0.5/remoteEntry.js",
+        "url": "https://www.unpkg.com/@visa-ge/plugin-custom-upload@0.0.6/remoteEntry.js",
         "accession": "./Component",
         "componentName": "AppComponent"
       }
