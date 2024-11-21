@@ -17,5 +17,17 @@
         "componentName": "AppComponent"
       }
     ]
+  },
+  {
+    "name": "IGV",
+    "components": [
+      {
+        "title": "IGV",
+        "location": "Genome viewers",
+        "url": "https://www.unpkg.com/@visa-ge/plugin-igv@0.0.0/remoteEntry.js",
+        "accession": "./Component",
+        "componentName": "AppComponent"
+      }
+    ]
   }
 ]
